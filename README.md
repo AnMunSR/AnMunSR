@@ -112,9 +112,9 @@ I focus on building scalable and secure systems while applying security best pra
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnMunSR&show_icons=true&theme=default&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnMunSR&layout=compact&hide_border=true"/>
 </p>
 
 ---
@@ -122,7 +122,7 @@ I focus on building scalable and secure systems while applying security best pra
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnMunSR&theme=github-light&hide_border=true"/>
 </p>
 
 ---
