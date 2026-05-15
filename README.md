@@ -148,9 +148,9 @@ Currently focusing on building scalable and secure systems using modern DevOps a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnMunSR&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnMunSR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnMunSR&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnMunSR&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -160,7 +160,7 @@ Currently focusing on building scalable and secure systems using modern DevOps a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnMunSR&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnMunSR&theme=tokyo-night"/>
 
 </div>
 
@@ -170,7 +170,7 @@ Currently focusing on building scalable and secure systems using modern DevOps a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AnMunSR&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AnMunSR&theme=tokyonight"/>
 
 </div>
 
