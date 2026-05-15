@@ -1,150 +1,191 @@
+<div align="center">
+
 # Trần Thị Ánh Nguyệt 🌚
 
-**DevOps | Cloud | Cybersecurity | Software Engineering**
+### DevOps • Cloud • Cybersecurity • Software Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tranthianhnguyet259@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EvwGWY36K/)
+<p>
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:tranthianhnguyet259@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/share/1EvwGWY36K/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=AnMunSR&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I am a final-year Information Security student at the Posts and Telecommunications Institute of Technology (PTIT HCM), passionate about DevOps, Cloud Computing, and Cybersecurity.
+Final-year Information Security student at Posts and Telecommunications Institute of Technology (PTIT HCM) with strong interests in:
 
-My areas of interest include:
-
-- Cloud Infrastructure & DevOps Engineering
-- Web Application Security
-- DevSecOps & Secure Deployment
-- Infrastructure Automation
+- DevOps & Cloud Engineering
+- Cybersecurity & Web Security
+- DevSecOps & Infrastructure Automation
 - Secure Software Development
+- Cloud Infrastructure Deployment
 
-I focus on building scalable and secure systems while applying security best practices to modern software environments.
+Currently focusing on building scalable and secure systems using modern DevOps and security practices.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### [Posts and Telecommunications Institute of Technology – Ho Chi Minh Campus (PTIT HCM)](https://ptithcm.edu.vn/)
+### Posts and Telecommunications Institute of Technology (PTIT HCM)
 
 - Bachelor of Information Security
 - 📍 Ho Chi Minh City, Vietnam
-- ⏳ 2022 – 2027
+- 📅 2022 – 2027
 - 📈 GPA: **3.46 / 4.0**
 
 ---
 
-## 🏆 Experience & Technical Activities
+# 🛠 Tech Stack
 
-### 🔐 Cybersecurity Research
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,php" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,githubactions,linux,bash,git" />
+</p>
+
+### 🔐 Cybersecurity & Networking
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
+
+### 🗄 Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Experience & Technical Activities
+
+## 🔐 Cybersecurity
+
 - Researching and analyzing web vulnerabilities:
   - XSS
   - SQL Injection
   - WAF Bypass Techniques
-- Security testing using:
-  - Burp Suite
-  - OWASP ZAP
-  - Nmap
-  - Wireshark
-- Applying secure coding practices in development projects
 
-### ☁️ DevOps & Cloud
+- Performing web security testing and vulnerability assessment
+
+- Applying secure coding practices in software projects
+
+---
+
+## ☁️ DevOps & Cloud
+
 - Deploying infrastructure on Google Cloud Platform (GCP)
 - Infrastructure as Code using Terraform
 - Building CI/CD pipelines with GitHub Actions
 - Working with Docker and Kubernetes environments
 - Linux server configuration and management
 
-### 💻 Software Development
+---
+
+## 💻 Software Development
+
 - Full-stack web application development
-- Backend API development
+- Backend API implementation
 - Database integration and authentication systems
-- Secure architecture implementation for web systems
+- Secure architecture design for web systems
 
 ---
 
-## 🛠 Technical Skills
+# 📂 Featured Projects
 
-### 💻 Programming Languages
-`Java` `C++` `Python` `JavaScript` `PHP`
-
-### ☁️ Cloud & DevOps
-`GCP` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Linux`
-
-### 🔐 Cybersecurity
-`Burp Suite` `OWASP ZAP` `Nmap` `Wireshark` `Metasploit` `Kali Linux`
-
-### 🗄 Databases
-`MySQL` `SQL Server`
-
-### 🔑 Security Knowledge
-- Web Application Security
-- Secure Coding
-- Cryptography (AES, DES, Stream Cipher)
-- Vulnerability Assessment
-- Penetration Testing Fundamentals
-
----
-
-## 📂 Featured Projects
-
-### 🔹 DevSecOps & Cloud Projects
-- Kubernetes deployment and management projects
-- Infrastructure automation using Terraform
+## 🔹 DevSecOps & Cloud Projects
+- Kubernetes deployment and management
+- Terraform infrastructure automation
 - CI/CD implementation with GitHub Actions
 - Cloud deployment projects on GCP
 
-### 🔹 Cybersecurity Projects
+## 🔹 Cybersecurity Projects
 - Web security testing labs
 - XSS & SQL Injection practice environments
 - Secure web application development
-- Cryptography implementations in C++ and Python
+- AES & DES cryptography implementations
 
-### 🔹 Software Engineering Projects
+## 🔹 Software Engineering Projects
 - Full-stack web applications
 - Authentication & authorization systems
 - RESTful API development
-- Database-driven applications
+- Database-driven systems
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnMunSR&show_icons=true&theme=default&hide_border=true"/>
+<div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnMunSR&layout=compact&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnMunSR&show_icons=true&theme=github_dark&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnMunSR&layout=compact&theme=github_dark&hide_border=true"/>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnMunSR&theme=github-light&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnMunSR&theme=github-compact&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🏅 Achievements
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnMunSR&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
 
 - Participated in ICPC Programming Contest (School Level)
 - Outstanding Youth Union Member
-- Active contributor to academic and personal technical projects
-- Continuous self-learning in Cloud, DevOps, and Cybersecurity technologies
+- Active contributor to academic and technical projects
+- Continuous self-learning in DevOps, Cloud, and Cybersecurity
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
 Seeking internship opportunities in:
 
@@ -159,18 +200,26 @@ To become a DevSecOps Engineer specializing in secure cloud infrastructure, auto
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-📧 Email: [tranthianhnguyet259@gmail.com](mailto:tranthianhnguyet259@gmail.com)
+<p align="center">
+  <a href="mailto:tranthianhnguyet259@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-💼 LinkedIn: [Trần Thị Ánh Nguyệt](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/)
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-📘 Facebook: [Facebook Profile](https://www.facebook.com/share/1EvwGWY36K/)
-
-📌 Status: Open to internships in DevOps, Cloud, and Cybersecurity
+  <a href="https://www.facebook.com/share/1EvwGWY36K/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <i>Focused on continuous learning in DevOps, Cloud Computing, and Cybersecurity.</i>
-</p>
+<div align="center">
+
+### ⭐ Focused on continuous learning in DevOps, Cloud Computing, and Cybersecurity
+
+</div>
