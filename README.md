@@ -197,28 +197,6 @@ Currently focusing on cloud deployment, CI/CD automation, infrastructure securit
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnMunSR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnMunSR&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnMunSR&theme=tokyo-night"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
