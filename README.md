@@ -18,8 +18,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AnMunSR&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -194,16 +192,6 @@ Currently focusing on cloud deployment, CI/CD automation, infrastructure securit
 - Contributed to security-focused repositories
 - Participated in cloud and Kubernetes deployment labs
 - Worked on CI/CD and infrastructure automation projects
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnMunSR&theme=tokyonight"/>
-
-</div>
 
 ---
 
